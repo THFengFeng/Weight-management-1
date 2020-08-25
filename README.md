@@ -1,4 +1,3 @@
-# vue-bookkeeping-local
 
 ## 技术栈
 
